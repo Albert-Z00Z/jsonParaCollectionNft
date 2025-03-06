@@ -1,0 +1,10 @@
+{
+  "name": "Collection de Albert",
+  "symbol": "COL",
+  "description": "Una colección de NFT de prueba.",
+  "image": "https://github.com/metaplex-foundation/example-candy-machine-assets/blob/main/assets/collection.png",
+  "attributes": [],
+  "properties": {
+    "creators": [{"address": "CX8Aje69rmTjScD8gp7xePBJziP7J5p3aA7bzEg1NMRs", "share": 100}]
+  }
+}
